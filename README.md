@@ -1,4 +1,4 @@
-🚀 Just launched a fun and interactive Quiz Website built from scratch using HTML, CSS, and JavaScript!
+<img width="847" height="581" alt="Screenshot 2025-08-02 152643" src="https://github.com/user-attachments/assets/452ee492-7c46-4e19-bc66-ab2cdb1e290d" />🚀 Just launched a fun and interactive Quiz Website built from scratch using HTML, CSS, and JavaScript!
 
 This project helped me sharpen my front-end development skills, especially in:
 ✅ Dynamic DOM manipulation
@@ -69,7 +69,5 @@ JavaScript for dynamic functionality and interactivity
 
 
 I’d love to hear your thoughts, suggestions, or ideas for what to add next—maybe a timer, difficulty levels, or a leaderboard?
-
-Thanks for checking it out!
-
-#WebDevelopment #Frontend #JavaScript #HTML #CSS #ProjectShowcase #LearningByBuilding #100DaysOfCode
+<img width="790" height="576" alt="Screenshot 2025-08-02 152652" src="https://github.com/user-attachments/assets/ab5680e5-ab37-4dbf-8907-6a09ec46c89a" /><img width="1106" height="576" alt="Screenshot 2025-08-02 152633" src="https://github.com/user-attachments/assets/ceaae682-db29-44eb-ae5c-fecab0e34538" />
+<img width="917" height="403" alt="Screenshot 2025-08-02 152657" src="https://github.com/user-attachments/assets/01f392af-5ecc-4db4-b491-e07abd53ef78" />
